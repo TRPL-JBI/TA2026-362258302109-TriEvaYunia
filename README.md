@@ -177,15 +177,16 @@ Setelah instalasi selesai, lakukan konfigurasi berikut.
 1. Atur Pengaturan Akademik Monitoring
 2. Masukkan Informasi Sekolah
 3. Tambahkan Tahun Ajaran
-4. Tambahkan Jurusan
+4. Tambahkan Kurikulum
 5. Tambahkan Mata Pelajaran
-6. Buat Kurikulum
-7. Tambahkan Kelas
-8. Tambahkan Peserta Kelas
-9. Generate Course
-10. Mapping Course
-11. Atur KKTP
-12. Input CP dan TP
+6. Tambah Jurusan
+7. Setting Mata Pelajaran Jurusan beserta nilai KKTP
+8. Tambah Kelas
+9. Tambahkan Peserta Kelas
+10. Generate Course
+11. Mapping Course
+12. Atur KKTP
+13. Input Capaian Pembelajaran dan Tujuan Pembelajaran
 
 Setelah seluruh konfigurasi selesai, plugin siap digunakan.
 
