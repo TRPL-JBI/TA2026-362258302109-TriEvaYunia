@@ -56,7 +56,7 @@ Plugin menyediakan berbagai fitur untuk mendukung pengelolaan akademik sekolah.
 - Mengelola Tujuan Pembelajaran
 
 ### Semua User
-- Menghubungkan akun telegram
+- Menghubungkan akun telegram untuk mendapatkan notifikasi otomatis
 
 ### Integrasi
 - Moodle Gradebook
