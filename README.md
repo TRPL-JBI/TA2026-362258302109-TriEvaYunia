@@ -85,7 +85,7 @@ Plugin menyediakan berbagai fitur untuk mendukung pengelolaan akademik sekolah.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/TRPL-JBI/TA2026-362258302091-AyuKurniaSari.git
+git clone https://github.com/TRPL-JBI/tugas-akhir-2026-TriEvaYunia.git
 ```
 
 atau download repository dalam bentuk ZIP.
