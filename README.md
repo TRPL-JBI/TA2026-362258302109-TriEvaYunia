@@ -55,7 +55,7 @@ Plugin menyediakan berbagai fitur untuk mendukung pengelolaan akademik sekolah.
 ### Guru
 - Mengelola Tujuan Pembelajaran
 
-### Guru
+### Semua User
 - Menghubungkan akun telegram
 
 ### Integrasi
