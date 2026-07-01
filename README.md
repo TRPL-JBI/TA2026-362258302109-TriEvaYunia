@@ -201,11 +201,9 @@ Plugin mendukung beberapa peran pengguna.
 | Role | Akses |
 |------|-------|
 | Administrator | Seluruh fitur |
-| Manager | Monitoring |
-| Teacher | Input nilai dan presensi |
-| Editing Teacher | Mengelola course |
-| Wali Kelas | Monitoring kelas dan rapor |
-| Student | Melihat perkembangan akademik |
+| Teacher | Mengelola Course, Input nilai, Tujuan Pembelajaran, Monitoring Belajar dan presensi |
+| Wali Kelas | Monitoring kelas dan Penyusunan Rapor |
+| Student | Melihat perkembangan akademik dan pengingat akademik |
 
 ---
 
